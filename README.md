@@ -2,6 +2,8 @@
 
 This application uses Typescript, React, Hooks, and Hardhat.
 
+LIVE DEPLOYMENT - https://neopost.netlify.app/
+
 Hook pattern - https://medium.com/@rossitrile93/how-i-replace-redux-redux-saga-with-react-446b4c84f788
 
 ## Project Setup
